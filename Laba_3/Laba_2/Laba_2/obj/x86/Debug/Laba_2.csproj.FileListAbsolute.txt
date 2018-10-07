@@ -1,0 +1,6 @@
+/home/danila/Документы/Универ/Прога/Laba_2/Laba_2/Laba_2/obj/x86/Debug/Laba_2.csprojResolveAssemblyReference.cache
+/home/danila/Документы/Универ/Прога/Laba_2/Laba_2/Laba_2/obj/x86/Debug/Laba_2.csproj.CoreCompileInputs.cache
+/home/danila/Документы/Универ/Прога/Laba_2/Laba_2/Laba_2/bin/Debug/Laba_2.exe
+/home/danila/Документы/Универ/Прога/Laba_2/Laba_2/Laba_2/bin/Debug/Laba_2.pdb
+/home/danila/Документы/Универ/Прога/Laba_2/Laba_2/Laba_2/obj/x86/Debug/Laba_2.exe
+/home/danila/Документы/Универ/Прога/Laba_2/Laba_2/Laba_2/obj/x86/Debug/Laba_2.pdb
