@@ -1,0 +1,6 @@
+/home/danila/Projects/Laba_6_2/Laba_6_2/obj/x86/Debug/Laba_6_2.csprojResolveAssemblyReference.cache
+/home/danila/Projects/Laba_6_2/Laba_6_2/obj/x86/Debug/Laba_6_2.csproj.CoreCompileInputs.cache
+/home/danila/Projects/Laba_6_2/Laba_6_2/bin/Debug/Laba_6_2.exe
+/home/danila/Projects/Laba_6_2/Laba_6_2/bin/Debug/Laba_6_2.pdb
+/home/danila/Projects/Laba_6_2/Laba_6_2/obj/x86/Debug/Laba_6_2.exe
+/home/danila/Projects/Laba_6_2/Laba_6_2/obj/x86/Debug/Laba_6_2.pdb
